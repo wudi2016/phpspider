@@ -1,0 +1,17 @@
+2017-12-12 17:23:05 [Error] Mysql Connect failed[1]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-12 17:23:05 [Error] Mysql Connect failed[2]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-12 17:23:05 [Error] Mysql Connect failed[3]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-12 17:23:05 [Error] Mysql Connect failed[4]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-12 17:23:05 [Error] Mysql Connect failed[5]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-13 16:52:25 [Error] Mysql Connect failed[1]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-13 16:52:25 [Error] Mysql Connect failed[2]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-13 16:52:25 [Error] Mysql Connect failed[3]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-13 16:52:25 [Error] Mysql Connect failed[4]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-13 16:52:25 [Error] Mysql Connect failed[5]: Access denied for user 'root'@'localhost' (using password: YES)
+2017-12-14 17:05:39 [Error] MySQL server has gone away
+2017-12-14 17:11:17 [Error] MySQL server has gone away
+2017-12-14 17:16:03 [Error] MySQL server has gone away
+2017-12-20 16:13:16 [Error] MySQL server has gone away
+2017-12-20 16:57:23 [Error] MySQL server has gone away
+2017-12-20 16:58:46 [Error] MySQL server has gone away
+2017-12-21 14:13:57 [Error] MySQL server has gone away
